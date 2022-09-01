@@ -1,0 +1,3 @@
+ No meu caso, irei utilizar o Visual Studio Code como o ambiente de desenvolvimento javascript, por toda sua facilidade e auxilio com os códigos escritos em JavaScript, 
+extensões que aceleram o processo de desenvolvimento e e tratamento de erros, e a integração com terminais e Node.js que facilita a execução dos códigos diretamente na
+máquina, sem precisar de um navegador para executar, além das integrações com github e outras liguagens. Já é um ambiente que uso e tenho familiaridade.

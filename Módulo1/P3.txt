@@ -1,0 +1,5 @@
+Tipos de dados no cotidiano:
+Velocímetro do carro, conta bancária, recados, documentos
+
+tipos de dados na internet:
+cadastro de pessoas, compras, monitoramento de aparelhos, servidores interligados, comunicação de aparelhos smart.
