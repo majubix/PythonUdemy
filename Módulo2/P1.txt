@@ -1,9 +1,0 @@
-Factory Method:
-
-Define uma interface para a criação de objetos, mas deixa as sub-classes decidirem qual classe irão instanciar. O Factory Method permite que uma classe transfira para as sub-classes a responsabilidade pela criação de novas instâncias. Aplicando esse conceito para o cotidiano, é como se fosse criado um padrão de criação, mas a criação do objeto final, como se fosse uma franquia de pizzarias, onde em cada região as pizzas possuem as suas particualidades e ingredientes, porém sem deixar de seguir o padrão
-que é cacterística da empresa.
-
-Ponto negativo:
-
-Se a criação de subclasses, responsáveis pela instanciação das classes de domínio do problema, for apenas para cobrir criações diretas de poucas classes que são utilizadas poucas vezes e dentro de classes de mesmo domínio do problema, nesse contexto pode ser que o Factory Method atrapalhe ao invés de ser uma melhor opção quando comparado a versão de instanciação direta utilizando o palavra reservada new (caso raro o Factory ser um problema).
-

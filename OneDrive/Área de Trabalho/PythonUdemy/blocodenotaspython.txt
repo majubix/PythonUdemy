@@ -1,0 +1,13 @@
+#Exemplos de index:
+
+fruta = 'abacate'
+#index 0123456
+print(fruta[2:6)
+
+_______________
+
+valor = 99.75
+valor = str(valor)
+#index 0123
+
+print(valor[2:5])
